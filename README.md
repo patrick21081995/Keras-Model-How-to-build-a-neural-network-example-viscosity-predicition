@@ -1,6 +1,10 @@
-# Keras-Model-How-to-build-a-neural-network-example-with-viscosity-predicition-
+# Keras Model - How to build a neural network (example — viscosity predicition) (comments in portuguese)
 
-How to build a Keras Model — Data analysis, Preprocessing data, Train/Test data, Neural network, Viscosity Prediction, Sensitivity analysis and "Simulation" mode
+How to build a Keras Model — Data analysis, Preprocessing data, Train/Test data, Neural network, Viscosity Prediction, Sensitivity analysis and "Simulation" mode.
+
+The notebook is in the link below (comments in portuguese):
+
+https://colab.research.google.com/drive/1xcSaOXsgML6cXl1HJYHmlMADkl8X20Yw?usp=sharing
 
 Contact:
 
